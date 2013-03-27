@@ -14,6 +14,7 @@ namespace tempApp
     
     public partial class Form1 : Form
     {
+        TextWriter writefile;
         String str, strdata,senddata;
         String writetext1,writetext2,writetext3;
         public Form1()
@@ -83,6 +84,10 @@ namespace tempApp
 
                     try
                     {
+
+                        writefile = new StreamWriter("data.txt", true);
+                        writefile.WriteLine(senddata + "T=" + DateTime.Now.ToString("HH:mm:ss") + "\n");
+                        writefile.Close();
                         writetext1 = "";
                         writetext2 = "";
                         writetext3 = "";
@@ -90,6 +95,8 @@ namespace tempApp
                     }
                     catch (Exception ex2)
                     {
+                        writefile.WriteLine(senddata + "T=" + DateTime.Now.ToString("HH:mm:ss") + "\n");
+                        writefile.Close();
                         writetext1 = "";
                         writetext2 = "";
                         writetext3 = "";
