@@ -1,0 +1,18 @@
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\bin\Debug\tempApp.exe
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\bin\Debug\tempApp.pdb
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\tempApp.Form1.resources
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\tempApp.Properties.Resources.resources
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\tempApp.exe
+C:\Documents and Settings\ai\Desktop\Project\tempApp\tempApp\obj\x86\Debug\tempApp.pdb
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\tempApp.exe
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\tempApp.pdb
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\bin\Debug\tempApp.exe
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\bin\Debug\tempApp.pdb
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\tempApp.Form1.resources
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\tempApp.Properties.Resources.resources
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\ai\Desktop\Project\Copy of tempApp\tempApp\obj\x86\Debug\GenerateResource.write.1.tlog
