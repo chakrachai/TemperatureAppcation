@@ -1,0 +1,138 @@
+Com Address3  ID_3=28.3750 เวลา : 01:03:55
+
+Com Address1  ID_1=29.1875 เวลา : 01:03:19
+
+Com Address3  ID_3=28.3750 เวลา : 01:03:19
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:20
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:20
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:21
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:21
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:21
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:21
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:32
+
+Com Address3  ID_3=28.3125 เวลา : 01:03:32
+
+Com Address1  ID_1=28.9375 เวลา : 01:03:33
+
+Com Address3  ID_3=28.1875 เวลา : 01:03:33
+
+Com Address1  ID_1=28.9375 เวลา : 01:03:33
+
+Com Address3  ID_3=28.1875 เวลา : 01:03:33
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:34
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:34
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:34
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:34
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:34
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:35
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:35
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:35
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:36
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:36
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:36
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:36
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:36
+
+Com Address3  ID_3=28.2500 เวลา : 01:03:36
+
+Com Address3  ID_3=28.3125 เวลา : 01:03:46
+
+Com Address3  ID_3=28.3125 เวลา : 01:03:46
+
+Com Address3  ID_3=28.3125 เวลา : 01:03:46
+
+Com Address3  ID_3=28.3125 เวลา : 01:03:46
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:47
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:47
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:47
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:47
+
+Com Address1  ID_1=28.9375 เวลา : 01:03:33
+
+Com Address3  ID_3=28.1875 เวลา : 01:03:33
+
+Com Address3  ID_3=28.3750 เวลา : 01:03:34
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:34
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:35
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:35
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:36
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:36
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:36
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:36
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:37
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:37
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:37
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:46
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:46
+
+Com Address3  ID_3=28.4375 เวลา : 01:03:46
+
+Com Address1  ID_1=29.1250 เวลา : 01:03:47
+
+Com Address1  ID_1=29.1250 เวลา : 01:03:47
+
+Com Address1  ID_1=29.1250 เวลา : 01:03:07
+
+Com Address3  ID_3=28.5625 เวลา : 01:03:07
+
+Com Address1  ID_1=29.0000 เวลา : 01:03:08
+
+Com Address3  ID_3=29.1875 เวลา : 01:03:08
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:10
+
+Com Address3  ID_3=29.2500 เวลา : 01:03:10
+
+Com Address1  ID_1=29.0625 เวลา : 01:03:20
+
+Com Address3  ID_3=29.2500 เวลา : 01:03:20
+
+Com Address1  ID_1=29.1250 เวลา : 01:03:21
+
+Com Address3  ID_3=29.1875 เวลา : 01:03:21
+
+Com Address1  ID_1=29.1875 เวลา : 01:03:22
+
+Com Address3  ID_3=29.1875 เวลา : 01:03:22
+
+Com Address1  ID_1=29.1875 เวลา : 01:03:23
+
+Com Address3  ID_3=29.1875 เวลา : 01:03:23
+
